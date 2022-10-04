@@ -1,38 +1,156 @@
-.App {
-  text-align: center;
+
+.bg{
+  background-color: #F6F6F6;;
+}
+.logo{
+  justify-content: space-between !important;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.navbuttonlogo{
+  margin-right: 40px;
+  margin-left: 40px;
+}
+.today{
+  color: #F05921 !important;
+}
+.financial{
+  font-size: 20px;
+
+}
+.hero{
+  font-weight: 900;
+  font-size: 3.1rem;
+}
+.payment{
+  margin-top: 60px;
+}
+.footer{
+  display: flex ;
+  justify-content: space-between;
+}
+.quantfooter{
+  border-radius: 0px !important;
+}
+.policy{
+  text-decoration: None;
+  color: black;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+/* section1 */
+
+.blockchain{
+  font-size: 2.1rem !important;
+  font-weight: 700;
+}
+.blockchainpara{
+  font-size: 1.3rem 
+}
+.btn{
+  border-color: #F05921 !important;
+  border-width: 2px !important;
+  border-top-left-radius: 0px!important;
+  border-bottom-right-radius: 0px!important;
+  border-bottom-left-radius: 15px!important;
+  border-top-right-radius: 15px!important;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+
+/* section7 */
+.Interoperability{
+  margin-top: 100px;
+}
+
+.vid{
+  margin-top: 80px;
+  border-top-left-radius: 100px;
+  background-color: red;
+  
+}
+
+
+.Empowered{
+  background-image: url("Media/Empowered.jpg");
+  height: 640px;
+  margin-bottom: 120px;
+}
+.empowertextpara{
+  font-size: 1.5rem;
   color: white;
 }
-
-.App-link {
-  color: #61dafb;
+.empowerheading{
+  font-weight: 700;
+  font-size: 5vw;
+  color:white;
+}
+.emp{
+  padding-top: 80px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.images{
+  display: flex;
+  align-items: center;
+ 
 }
+.futureimg{
+  background-image: url("Media/future.jpg");
+  height: 400px;
+  background-repeat: no-repeat;
+
+}
+.future-btn{
+  background-color: white !important;
+  color: black !important;
+
+}
+.future-btn:hover{
+  background-color:#F05921 !important;
+  color: white !important;
+}
+.futureheading{
+  font-weight: 700;
+  font-size: 5vw;
+  color:white;
+}
+.finan{
+  margin-top: 40px;
+  margin-bottom: 90px;
+}
+.card-style{
+  height: 290px !important;
+  margin-bottom: 40px;
+}
+.event{
+  color: #F05921;
+}
+.date{
+  color: grey;
+  line-height: 2;
+}
+.guide{
+  background-image: url("Media/explorefuture.jpg");
+  background-size: cover ;
+  background-repeat: no-repeat;
+  
+}
+.exp{
+  font-size: 5vw;
+  font-family: 700;
+}
+.exp-para{
+  font-size: 2vw;
+}
+.guide-card{
+  margin-left: auto !important;
+  right: 0 !important;
+
+}
+/* .exploreimg{
+  background-image: url("Media/explorefuture.jpg");
+} */
+
+
+
+
+
+
+
