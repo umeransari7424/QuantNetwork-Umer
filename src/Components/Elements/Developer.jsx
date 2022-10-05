@@ -9,8 +9,8 @@ function Section8() {
           <div className="col-md-6 col-12 fluid text-start images">
             <div>
 
-            <div>
-              <h1 className="blockchain">Developers unleashed</h1>
+            <div >
+              <h1 className="blockchain" data-aos="fade-up">Developers unleashed</h1>
             </div>
             <div>
               <p className="blockchainpara">

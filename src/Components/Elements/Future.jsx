@@ -5,7 +5,7 @@ function Future() {
     <div className="futureimg">
       <div className="text-center emp ">
         <div className="futureheading">
-          <p>The future of finance. Today.</p>
+          <p data-aos="fade-up">The future of finance. Today.</p>
         </div>
         <div>
           <button type="button" className="btn future-btn">

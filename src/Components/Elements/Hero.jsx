@@ -13,7 +13,7 @@ function Hero() {
             <div className="container text-start payment">
                 
             
-            <div>
+            <div data-aos="fade-up">
                 <p className="hero">  The future 
                     of <br /> finance. <br />
                     <span className="text-start today">Today.</span> </p>

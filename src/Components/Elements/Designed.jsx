@@ -8,15 +8,15 @@ function Section10() {
           <div className="col-md-6 col-12 fluid text-start future images">
             <div>
 
-            <div>
-              <h1 className="blockchain">Designed for the future</h1>
+            <div data-aos="fade-up">
+              <h1 className="blockchain"  >Designed for the future</h1>
             </div>
-            <div>
-              <p className="blockchainpara">
+            <div >
+              <p className="blockchainpara" >
               With our blockchain-agnostic approach, your existing infrastructure investments are protected. And the door is open to future cross-platform applications.
               </p>
             </div>
-            <div>
+            <div >
               <button type="button" className="btn ">
                 <b>Find out more</b>
               </button>

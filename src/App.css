@@ -116,7 +116,7 @@
   margin-bottom: 90px;
 }
 .card-style{
-  height: 290px !important;
+  min-height:  290px !important;
   margin-bottom: 40px;
 }
 .event{
@@ -144,9 +144,26 @@
   right: 0 !important;
 
 }
-/* .exploreimg{
-  background-image: url("Media/explorefuture.jpg");
-} */
+.create-value{
+  display: flex;
+  flex-direction: column;
+}
+.create-pic{
+  display: flex;
+  align-items: center;
+}
+.create-card{
+  border: none!important;
+}
+.card-paragrapgh{
+  display: block !important;
+
+
+}
+.heading{
+  font-size: 3.0rem;
+  font-weight: 700;
+}
 
 
 

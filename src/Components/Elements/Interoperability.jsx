@@ -13,7 +13,7 @@ function Section7() {
             <div>
 
             <div className='Interoperability'>
-            <h1 className="blockchain">Interoperability solved</h1>
+            <h1 className="blockchain" data-aos="fade-up">Interoperability solved</h1>
             </div>
             <div>
                 <p className="blockchainpara">Reduce costs and access wider markets by deploying any app on any blockchain. That’s the power of our single, standard, multi-chain API.</p>

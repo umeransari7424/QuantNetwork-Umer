@@ -11,8 +11,8 @@ function Section1() {
           <div className="col-md-6 col-12 fluid text-start images">
             <div>
 
-            <div>
-            <h1 className="blockchain">Unlocking the power of blockchain for everyone</h1>
+            <div  >
+            <h1 className="blockchain" data-aos="fade-up">Unlocking the power of blockchain for everyone</h1>
             </div>
             <div>
                 <p className="blockchainpara">We deliver interoperable ecosystems and real-world solutions that lower costs, enable new business, and mitigate risk.</p>

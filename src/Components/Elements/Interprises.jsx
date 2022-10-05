@@ -11,8 +11,8 @@ function Section9() {
           <div className="col-md-6 col-12 fluid text-start images ">
             <div>
 
-            <div className="Interoperability">
-              <h1 className="blockchain">Built for enterprises</h1>
+            <div className="Interoperability" >
+              <h1 className="blockchain" data-aos="fade-up">Built for enterprises</h1>
             </div>
             <div>
               <p className="blockchainpara">

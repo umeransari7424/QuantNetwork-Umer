@@ -5,7 +5,7 @@ function Empowered() {
     <div className="Empowered ">
       <div className="text-center emp ">
         <div className="empowerheading">
-          <p>
+          <p data-aos="fade-up">
             An empowered, <br />
             interconnected world
           </p>
