@@ -13,7 +13,7 @@ function Explore() {
       </div> <br />
       <div className="container ">
         <div className="guide py-5">
-          <div className="card card-style guide-card" style={{maxwidth:"280px"}}>
+          <div className="card card-style guide-card" style={{width:"280px"}}>
             <div className="card-body text-start ">
               <span className="event"> News</span> <br />
               <span className="date">29 September 2011</span> <br /> <br />
